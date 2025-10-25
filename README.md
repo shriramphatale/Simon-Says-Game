@@ -29,5 +29,5 @@ Test your memory by repeating the color sequence shown by the game — each leve
 
 ---
 
-## 📂 Project Structure
+
 
