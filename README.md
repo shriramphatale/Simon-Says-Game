@@ -5,9 +5,8 @@ Test your memory by repeating the color sequence shown by the game — each leve
 
 ---
 
-## 🚀 Demo
-
-👉 **[Play the Game](#)** (<-#link->)
+## 🚀 Live Demo  
+https://simon-says-game-sv1.netlify.app/
 
 ---
 
